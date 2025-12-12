@@ -1,4 +1,4 @@
-## 🧑‍💻 Introduction
+<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/6d2b7ce7-9c78-4139-a6aa-74b0785e7686" />## 🧑‍💻 Introduction
 
 The demand for effective and user-friendly monitoring systems is always rising in our technologically driven era. One such project is the development of a Bluetooth-enabled wireless temperature and humidity monitoring system, which makes use of **MIT App Inventor’s** ease of use and adaptability. This project makes use of an Arduino Uno, DHT-11 sensor, HC-05 Bluetooth module, and a few other necessary parts to enable you to easily monitor environmental conditions. Come along on this adventure as we explore the nuances of developing a reliable temperature and humidity monitoring system.
 
@@ -26,6 +26,8 @@ It’s advisable to use Proteus to simulate the circuit before beginning the act
 
 Open the simulation file on Proteus 8. Here, Arduino UNO is used as a microcontroller. A **HC-05 Bluetooth** module is used. A **16×2 LCD** is used as a display. DHT11 temperature and humidity sensor is used. The data pin of the sensor is connected to the A0 pin of the Arduino UNO. Virtual terminal is used that will receive the data by Bluetooth. Run the code and copy hex file address. Then place the hex file address in Arduino UNO and run the simulation. The values of temperature and humidity will be shown on the LCD. The virtual terminal will shoe the received values by Bluetooth.
 
+<img width="977" height="577" alt="image" src="https://github.com/user-attachments/assets/2abc34d4-ae3e-4426-b233-04b019356fb1" />
+
 ---
 
 ## 🔌 Circuit Diagram
@@ -45,6 +47,8 @@ In this circuit:
 
 This circuit layout ensures proper data flow from the sensor to the microcontroller, then to the LCD and Bluetooth module for monitoring and wireless communication.
 
+<img width="1072" height="776" alt="image" src="https://github.com/user-attachments/assets/0d36abd3-99ed-466d-b6e1-b57dce07bf9d" />
+
 ---
 
 ## 📱 MIT App Inventor
@@ -61,6 +65,11 @@ Using MIT App Inventor, you can:
 
 App Inventor works seamlessly with the HC-05 Bluetooth module, ensuring a smooth and reliable wireless connection.  
 By combining the app with the hardware setup, users can monitor environmental conditions directly from their mobile devices anytime, anywhere.
+
+
+<img width="966" height="529" alt="image" src="https://github.com/user-attachments/assets/f403fe77-f07f-4f10-b1d4-950e33e726ee" />
+
+<img width="429" height="715" alt="image" src="https://github.com/user-attachments/assets/3fd29121-248a-4070-83a9-eab12d385149" />
 
 ---
 
@@ -162,6 +171,11 @@ This code:
 
 ## 🧹 Hardware Testing
 
+<img width="968" height="571" alt="image" src="https://github.com/user-attachments/assets/070375a3-6266-4f08-a3c6-5edf350d4f64" />
+
+<img width="963" height="559" alt="image" src="https://github.com/user-attachments/assets/54ab803a-33f7-407b-b78b-18abb2bf06d4" />
+
+
 Once the circuit has been assembled and the Arduino code uploaded, the system is ready for hardware testing. This stage ensures that all components work correctly in real-world conditions and that the system performs as expected.
 
 During testing, verify the following:
@@ -179,6 +193,8 @@ During testing, verify the following:
   Verify that the mobile application receives the transmitted temperature and humidity values via Bluetooth.
 
 Once connected, the sensed temperature and humidity readings should appear on the mobile app in real time. This confirms that the entire monitoring system—sensor, Arduino, LCD, Bluetooth module, and app—is working seamlessly together.
+
+<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/33c53620-708a-4714-8f06-a0cff045d3e2" />
 
 ---
 
