@@ -1,4 +1,7 @@
-<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/6d2b7ce7-9c78-4139-a6aa-74b0785e7686" />## 🧑‍💻 Introduction
+<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/6d2b7ce7-9c78-4139-a6aa-74b0785e7686" />
+
+
+## 🧑‍💻 Introduction
 
 The demand for effective and user-friendly monitoring systems is always rising in our technologically driven era. One such project is the development of a Bluetooth-enabled wireless temperature and humidity monitoring system, which makes use of **MIT App Inventor’s** ease of use and adaptability. This project makes use of an Arduino Uno, DHT-11 sensor, HC-05 Bluetooth module, and a few other necessary parts to enable you to easily monitor environmental conditions. Come along on this adventure as we explore the nuances of developing a reliable temperature and humidity monitoring system.
 
